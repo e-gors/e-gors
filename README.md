@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating seamless web applications, learning emerging web technologies, and exploring backend and frontend solutions for a complete stack approach.
 - 🌱 I’m currently learning Ruby, Next.js, React Native, and TypeScript.
 - 💞️ I’m looking to collaborate on projects that involve dynamic web development, especially ones leveraging React, Laravel, or TypeScript for building scalable solutions.
-- 📫 How to reach me: 09054170203 or goronefren@gmail.com
+- 📫 How to reach me: +639361416119 or goronefren@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, I love diving into tech discussions and brainstorming ways to make web development more efficient and user-friendly!
 
