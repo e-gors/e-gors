@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, I love diving into tech discussions and brainstorming ways to make web development more efficient and user-friendly!
 
+Personal Website:
+https://eg-portfolio-v3.netlify.app/
 
 <!---
 e-gors/e-gors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
