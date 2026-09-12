@@ -95,11 +95,11 @@ such as carpenters, plumbers, electricians, and other local professionals.
 
 <br />
 
-<a href="YOUR_WORKER_PLATFORM_DEMO_URL">
+<a href="/">
   <img src="https://img.shields.io/badge/Live_Demo-View_Project-0d1a28?style=for-the-badge" alt="Live Demo" />
 </a>
 
-<a href="YOUR_WORKER_PLATFORM_REPO_URL">
+<a href="/">
   <img src="https://img.shields.io/badge/Source_Code-GitHub-e0a03f?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
@@ -140,11 +140,11 @@ authentication, product management, cart, checkout, and cloud storage.
 
 <br />
 
-<a href="https://lumiere-app-theta.vercel.app">
+<a href="/">
   <img src="https://img.shields.io/badge/Live_Demo-View_Project-0d1a28?style=for-the-badge" alt="Live Demo" />
 </a>
 
-<a href="YOUR_LUMIERE_REPO_URL">
+<a href="/">
   <img src="https://img.shields.io/badge/Source_Code-GitHub-e0a03f?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
@@ -191,7 +191,7 @@ projects, and contact information.
   <img src="https://img.shields.io/badge/Live_Demo-View_Portfolio-0d1a28?style=for-the-badge" alt="Portfolio" />
 </a>
 
-<a href="YOUR_PORTFOLIO_REPO_URL">
+<a href="https://github.com/e-gors/portfolio-v3">
   <img src="https://img.shields.io/badge/Source_Code-GitHub-e0a03f?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
